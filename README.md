@@ -15,9 +15,4 @@ Command Cognition is a modular, AI-powered, multi-agent assistant that augments 
 - 🧠 **Fine-Tuned GPT-2 Model** (via LoRA) for manual-style generation
 
 ---
-+------------+         +-------------+         +-------------------+
-| User Input | ----->  | Main Agent  | ----->  | Specialized Agents |
-+------------+         +-------------+         +--------+----------+
-                                              |        |          |
-                                          Autocomplete  Fix      ASCII
-                                             Disk  
+
